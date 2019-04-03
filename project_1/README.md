@@ -17,7 +17,7 @@ The task is episodic, and in order to solve the environment, the agent needs to 
 
 ## Getting Started
 
-Install the Unity Machine Learning Agents (ML-Agents) v0.4 to run the project notebook. The details of the enviorenment installation can be found from https://github.com/Unity-Technologies/ml-agents.
+Install the Unity Machine Learning Agents (ML-Agents) v0.4 to run the project notebook. The details of the enviorenment installation can be found from https://github.com/Unity-Technologies/ml-agents. To set up the enviorenment in local machine, follow the following link: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md.
 
 
 ## Instructions
